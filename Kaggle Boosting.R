@@ -1,4 +1,3 @@
-setwd("/Users/aolunchen/Desktop/")
 kaggledata <- read.csv("analysisData.csv")
 library(shiny)
 library(DBI)
